@@ -6,7 +6,7 @@
  - математический анализ
 
 ## Линейная алгебра
-...
+- [Intro](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/Intro.md)
 
 ## Теория вероятностей
 ...
