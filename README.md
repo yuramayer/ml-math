@@ -7,6 +7,7 @@
 
 ## Линейная алгебра
 - [Введение в линейную алгебру](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/Intro.md)
+- [Векторы и операции с ними](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/vectors.md)
 
 ## Теория вероятностей
 ...
