@@ -6,8 +6,9 @@
  - математический анализ
 
 ## Линейная алгебра
-- [Введение в линейную алгебру](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/Intro.md)
-- [Векторы и операции с ними](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/vectors.md)
+- [Введение в линейную алгебру](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/01.%20Intro.md)
+- [Векторы и операции с ними](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/02.%20Vectors.md)
+- [Базис](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/03.%20Basis.md)
 
 ## Теория вероятностей
 ...
