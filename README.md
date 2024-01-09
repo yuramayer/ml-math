@@ -10,6 +10,7 @@
 - [Векторы и операции с ними](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/02.%20Vectors.md)
 - [Базис](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/03.%20Basis.md)
 - [Линейная комбинация](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/04.%20Linear%20combination.md)
+- [Норма вектора](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/05.%20Vector%20norm.md)
 
 ## Теория вероятностей
 ...
