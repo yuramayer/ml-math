@@ -13,6 +13,7 @@
 - [Базис](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/03.%20Basis.md)
 - [Линейная комбинация](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/04.%20Linear%20combination.md)
 - [Норма вектора](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/05.%20Vector%20norm.md)
+- [Скалярное произведерние векторов](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/06.%20Dot%20product.md)
 
 ## Теория вероятностей
 ...
