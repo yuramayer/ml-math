@@ -14,6 +14,7 @@
 - [Линейная комбинация](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/04.%20Linear%20combination.md)
 - [Норма вектора](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/05.%20Vector%20norm.md)
 - [Скалярное произведерние векторов](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/06.%20Dot%20product.md)
+- [Прямые на плоскости](https://github.com/yuramayer/ml-math/blob/main/linear-algebra/07.%20Lines%20in%20the%20plane.md)
 
 ## Теория вероятностей
 ...
